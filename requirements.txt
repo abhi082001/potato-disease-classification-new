@@ -1,33 +1,21 @@
 absl-py==1.0.0
 altair==4.2.0
 anyio==3.6.1
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
 asgiref==3.5.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 astunparse==1.6.3
-attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 autopep8==1.6.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.zoneinfo==0.2.1
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.4
 cachetools==5.0.0
 certifi==2021.10.8
-cffi @ file:///C:/ci_310/cffi_1642682485096/work
 charset-normalizer==2.0.12
 click==8.0.4
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 commonmark==0.9.1
 cycler==0.11.0
 Cython==0.29.28
-debugpy @ file:///C:/ci/debugpy_1637073815078/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 Django==4.0.3
 dm-tree==0.1.7
 entrypoints==0.3
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastapi==0.78.0
 Flask==2.0.3
 flatbuffers==1.12
@@ -56,7 +44,6 @@ jedi @ file:///C:/ci/jedi_1644315425835/work
 Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
 joblib==1.1.0
 jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
-jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
 jupyter-core @ file:///C:/ci/jupyter_core_1646976462809/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-widgets==1.1.1
