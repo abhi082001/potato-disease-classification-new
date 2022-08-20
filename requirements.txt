@@ -82,7 +82,6 @@ notebook @ file:///C:/ci/notebook_1645002756862/work
 numpy==1.22.3
 oauthlib==3.2.0
 opencv-python==4.5.5.64
-opt-einsum==3.3.0
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas==1.4.1
 pandas-datareader==0.10.0
