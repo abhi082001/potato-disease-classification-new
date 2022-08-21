@@ -1,15 +1,10 @@
 from fastapi import FastAPI, Path, File, UploadFile, Request, Form
 from fastapi.templating import Jinja2Templates
-import shutil
-import os
-from typing import Optional
-from pydantic import BaseModel
 import uvicorn
 import numpy as np
 from io import BytesIO
 from PIL import Image
-import tensorflow as tf
-import json
+import tensorflow as tf 
 
 app = FastAPI()
 
