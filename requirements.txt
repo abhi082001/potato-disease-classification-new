@@ -1,15 +1,11 @@
 fastapi==0.78.0
 gunicorn==20.1.0
 joblib==1.1.0
-keras==2.9.0
 numpy==1.22.3
-opencv-python==4.5.5.64
 pandas==1.4.1
-pandas-datareader==0.10.0
 Pillow==9.0.1
 pydantic==1.9.1
 python-Levenshtein-wheels==0.13.2
 python-multipart==0.0.5
-scikit-learn==1.1.0
 tensorflow==2.9.1
 uvicorn==0.17.6
