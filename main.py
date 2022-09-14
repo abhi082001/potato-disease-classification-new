@@ -49,7 +49,7 @@ def test(l1):
     ans = l1*60
     return {"ans":float(ans)}
 
-'''
+
 if __name__ == "__main__":
     uvicorn.run(app, host='localhost', port = 8000)
-'''
+
